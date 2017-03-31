@@ -1,0 +1,11 @@
+name: test_debug
+description: Simple pub transformer package to provide *_debug.html files for tests that can run in the browser.
+version: 0.1.0
+author: Eric Schneller <eric@schnellers.name>
+
+environment:
+  sdk: '>= 1.22.0 <2.0.0'
+
+dependencies:
+  barback: '>=0.14.0 <0.16.0'
+  path: '^1.2.0'
