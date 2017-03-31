@@ -1,6 +1,8 @@
 `test_debug` is a pub transformer which provides `.debug.html` files for dart tests when using `pub serve`. These can
 be opened in dartium for debug purposes.
 
+[![Build Status](https://travis-ci.org/eredo/test_debug.svg?branch=master)](https://travis-ci.org/eredo/test_debug)
+
 ## Setup
 
 Add `test_debug` to your pubspec.yaml:
