@@ -2,6 +2,7 @@ name: test_debug
 description: Simple pub transformer package to provide *_debug.html files for tests that can run in the browser.
 version: 0.1.0
 author: Eric Schneller <eric@schnellers.name>
+homepage: https://github.com/eredo/test_debug
 
 environment:
   sdk: '>= 1.22.0 <2.0.0'
